@@ -10,7 +10,9 @@ Choose from thirteen cats and seven keyboards. The pet works on its own. The opt
 
 ## Installation
 
-Sneakpaw currently builds from source on macOS 14 or later. For a ready-to-install download, watch [GitHub Releases](https://github.com/ribincao/sneakpaw/releases) for the first packaged version.
+[Download Sneakpaw 0.1 for macOS](https://github.com/ribincao/sneakpaw/releases/download/v0.1/Sneakpaw-0.1-macOS.zip) · macOS 14 or later · Apple silicon and Intel
+
+Unzip the download, drag **Sneakpaw.app** into **Applications**, and open it. This preview uses ad hoc signing and has not been notarized by Apple. If macOS blocks the first launch, see [Apple’s guide to opening apps safely](https://support.apple.com/102445).
 
 ### Build from source
 
